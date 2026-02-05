@@ -1,0 +1,6 @@
+site_name: PiTrac
+site_description: Raspberry Pi launch monitor documentation
+plugins:
+  - techdocs-core
+nav:
+  - Home: index.md
