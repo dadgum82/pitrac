@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pitrac
+  description: Launch monitor using low-cost Raspberry Pi and camera hardware to determine ball launch speed, angles and spin
+  annotations:
+    github.com/project-slug: dadgum82/pitrac
+spec:
+  type: library
+  owner: group:default/admins
+  lifecycle: experimental
